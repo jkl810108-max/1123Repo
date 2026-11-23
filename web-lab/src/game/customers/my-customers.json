@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "泡麵學生",
+    "intro": "月底只剩泡麵錢的大學生",
+    "budget": 40,
+    "wants": ["豆漿", "紅茶"],
+    "hates": "玉米鍋貼",
+    "days": [1, 2, 3, 4, 5],
+    "count": 8,
+    "lines": {
+      "bought": "終於吃到熱的，感動。",
+      "hated_on_menu": "玉米鍋貼太貴，我先走。",
+      "not_on_menu": "沒有豆漿？明天再來。",
+      "sold_out": "賣完了？我下課衝來的！",
+      "too_expensive": "再貴我就只能吃泡麵。"
+    }
+  },
+  {
+    "name": "月底上班族",
+    "intro": "薪水還沒入帳的上班族",
+    "budget": 70,
+    "wants": ["招牌鍋貼", "紅茶"],
+    "hates": "酸辣湯",
+    "days": [1, 3, 5],
+    "count": 6,
+    "lines": {
+      "bought": "撐到發薪日，有救了。",
+      "hated_on_menu": "酸辣湯一上架我就閃。",
+      "not_on_menu": "沒有招牌？午餐泡湯了。",
+      "sold_out": "招牌賣完？我排很久耶。",
+      "too_expensive": "這價錢，我得再省一點。"
+    }
+  },
+  {
+    "name": "省錢媽媽",
+    "intro": "帶小孩，精打細算的媽媽",
+    "budget": 60,
+    "wants": ["韭菜鍋貼", "豆漿"],
+    "hates": "紅茶",
+    "days": [2, 4],
+    "count": 5,
+    "lines": {
+      "bought": "孩子吃得開心，值得！",
+      "hated_on_menu": "有紅茶？孩子不能喝。",
+      "not_on_menu": "沒有韭菜？孩子會哭。",
+      "sold_out": "賣完了？白跑一趟。",
+      "too_expensive": "超過六十，我不買。"
+    }
+  }
+]
